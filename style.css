@@ -79,10 +79,6 @@ body {
     background:rgb(217, 217, 217);
 }
 
-@media (hover: none) {
-    .first-row:hover { color: inherit; }
-}
-
 .calc-button:last-child:hover {
     background: rgb(252, 199, 141);
 }
