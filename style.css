@@ -16,7 +16,7 @@ body {
     height: inherit;
     justify-content: center;
     align-items: center;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: SF Pro;
     font-weight: 200;
 }
 
@@ -41,7 +41,6 @@ body {
 }
 
 .calc-button {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 40px;
     font-weight: 400;
     background: rgb(51, 51, 51);
